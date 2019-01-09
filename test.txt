@@ -1,2 +1,5 @@
 Helloworld
 blabla
+faire un git add
+git commit -m "commit n"
+git push
